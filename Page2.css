@@ -1,0 +1,32 @@
+.yellowbox {
+  position: absolute;
+  border: solid 3px green;
+  height: 400px;
+  width: 1500px;
+}
+
+.inside1 {
+  margin-left: 300px;
+  margin-top: 300px;
+}
+
+.Graybox {
+  height: 60px;
+  margin-left: 10px;
+  border: solid 3px gray;
+  width: 1480px;
+  position: absolute;
+  top: 30px;
+}
+
+.inside2 {
+  margin-left: 30px;
+}
+
+.Greenbox {
+  border: solid 3px green;
+  margin-left: 10px;
+  position: absolute;
+  margin-top: 150px;
+}
+/*# sourceMappingURL=Page2.css.map */
